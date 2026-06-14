@@ -5,6 +5,8 @@ compatibility: Requires git, a repository with a configured remote, and permissi
 metadata:
   author: mkArtak
   version: "1.0"
+  source-repository: mkArtak/agent-skills
+  source-path: .agents/skills/commit-and-push
 ---
 
 Commit local repository changes and push the current branch safely.

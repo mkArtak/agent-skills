@@ -46,3 +46,4 @@ This section is the running catalog of skills in this repository.
 | Skill | Purpose | Notes |
 | --- | --- | --- |
 | `commit-and-push` | Stages intended changes, creates a commit, and pushes the current branch. | Portable git workflow skill for publishing repository work. |
+| `repo-skill-manager` | Lists, installs, and updates skills published from this repository. | Manages project-scoped and global installs under the standard `.agents/skills` layout. |
